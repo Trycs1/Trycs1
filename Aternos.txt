@@ -1,0 +1,3 @@
+"ip": "ScoobyDo_o.aternos.me
+"port": " 24875
+"name": "Trycs1
